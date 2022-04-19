@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Starfish Myanmar Coltd,. as a mid-mobile developer.
+- 🔭 I’m currently working on Starfish Myanmar Co.,Ltd. as a mid-mobile developer.
 - 🌱 I’m currently learning about architecture and design patterns in flutter.
 - 🤔 I’m looking for a job to work with remotely.
 - 💬 Ask me about dart and flutter.
