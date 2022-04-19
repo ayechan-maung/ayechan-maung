@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about architecture and design patterns in flutter.
 - 🤔 I’m looking for a job to work with remotely.
 - 💬 Ask me about dart and flutter.
-- 📫 How to reach me: https://www.facebook.com/andres.acm/
+- 📫 How to reach me: ngaayechan@gmail.com
 
