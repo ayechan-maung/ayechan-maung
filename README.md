@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 ----------------
 
-I've been learning code for over 4 years, I started with HTML, CSS, and JS then I figured out Dart programming language and was keen on them, So I became a flutter developer. Now, I am over 2 years of experience in the mobile development field.
+I've been learning code for over 4 years, I started with HTML, CSS, and JS then I figured out Dart programming language and was keen on it, So I became a flutter developer. Now, I am over 2 years of experience in the mobile development field.
 
 * 🌍  I'm based in Naypyitaw, Myanmar
 * ✉️  You can contact me at [ayechanmaung522022@gmail.com](mailto:ayechanmaung522022@gmail.com)
 * 🚀  I'm currently working on [Starfish Myanmar](http://starfishmyanmar.com)
 * 🧠  I'm learning DSA, iOS development.
 * 🤝  I'm open to collaborating on remote projects.
-* ⚡  Learn and implement is my daily routine.
+* ⚡  Learning and implementation is my daily routine.
 
 ### Skills
 
